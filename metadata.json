@@ -1,0 +1,5 @@
+{
+  "name": "Stress Check for Employment Support",
+  "description": "A web application for employees at support facilities to perform stress checks, with feedback and reporting features for staff and administrators, powered by AI.",
+  "requestFramePermissions": []
+}
